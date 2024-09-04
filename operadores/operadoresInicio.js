@@ -17,10 +17,19 @@
 // // Resto ou Módulo
 // console.log(8 % 4);
 
+// Exponenciação
+//console.log(3 ** 2);
+
+// Raiz quadrada
+// let numero = 16;
+// let raizQuadrada = Math.sqrt(numero);
+
+// console.log(raizQuadrada);
+
 // Operadores unários
 
 let incremento = 1;
-console.log(incremento);
+//console.log(incremento);
 
 // pré-fixado pré fixado
 //++incremento
@@ -32,16 +41,16 @@ console.log(incremento);
 // numero3++
 
 
-console.log(incremento);
+// console.log(incremento);
 
 let decremento = 10;
-console.log(decremento); // 10
+// console.log(decremento); // 10
 
 decremento--;
 decremento--;
 decremento--;
-console.log(decremento--); // 7
-console.log(decremento); // 6
+// console.log(decremento--); // 7
+// console.log(decremento); // 6
 
 // Operadores de comparação
 // Igualdade, diferença, maior que, menor que 
@@ -60,8 +69,8 @@ let numeroMenor = 5;
 
 let resultadoComparacao = numeroMaior > numeroMenor;
 
-console.log(resultadoComparacao);
-console.log(numeroMaior > numeroMenor);
+// console.log(resultadoComparacao);
+// console.log(numeroMaior > numeroMenor);
 
 
 
