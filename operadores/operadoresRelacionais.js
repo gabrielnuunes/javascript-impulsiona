@@ -19,3 +19,8 @@ let numero2 = 10;
 
 // console.log(5 != 5); // Verifica se é diferente
 // console.log(5 !== "5"); // Verifica se o valor e o tipo são diferentes
+
+
+console.log(18 >= 18); // Verdadeiro
+console.log(19 >= 18); // Verdadeiro
+console.log(15 >= 18); // Verdadeiro

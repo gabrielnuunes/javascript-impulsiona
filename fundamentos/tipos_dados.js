@@ -18,16 +18,16 @@ let telefoneCelular = "8888-8888";
 
 // String -> Cadeia de caracteres, seria o nosso texto
 let texto1 = "Um texto qualquer";
-console.log(texto1);
+//console.log(texto1);
 
 let texto2 = 'Um texto com aspas simples';
-console.log(texto2);
+//console.log(texto2);
 
 let texto3 = 'Texto "entre" aspas';
-console.log(texto3);
+//console.log(texto3);
 
 let texto4 = "Texto 'entre' aspas";
-console.log(texto4);
+//console.log(texto4);
 
 // Template Strings 
 let textoComTemplate = `Um 'texto' "qualquer" mãe!`;
