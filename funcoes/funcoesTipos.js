@@ -31,11 +31,30 @@ soma(5,5);
 
 // Sem argumento e com retorno
 
+
+
+
+
+
+
 function falaBomDia() {
     return "Olá, bom dia! Tudo bem?"
 }
 
 console.log(falaBomDia());
+
+falaBomDia();
+
+
+
+
+
+
+
+
+
+
+
 
 
 function verificaIdade(idade) {
