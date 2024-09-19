@@ -7,6 +7,9 @@ nome = "Luiz";
 // console.log(nome);
 
 let resultado = 10 + 10;
+// 20     =    20     * 2;
+// resultado = resultado * 2;
+console.log(resultado);
 
 // console.log(10 + 10);
 // console.log(resultado);
@@ -48,7 +51,7 @@ const sqlCreateCliente = `Insira na linha X o cliente Felipe com o cpf ${cpf}`;
 
 console.log(sqlCreateCliente);
 
-const taxaMaquina = 7;
+const taxaMaquina = 1.05;
 let venda = 35;
 
 let valorTotalPagar = venda + taxaMaquina; // 35 + 7 = 42
@@ -61,3 +64,14 @@ const nomeLoja = "Loja das couves";
 console.log(`A loja ${nomeLoja} agradece a preferência.`)
 
 
+// Taxa de maquininha
+
+const txMaquina = 1.05; // 5%
+
+let valorTotalCompra = 100 * txMaquina;
+console.log(valorTotalCompra);
+
+// Exemplo com taxa variável da maquininha
+// Qual é a bandeira?
+// Qual o meio de pagamento?
+// Qual o valor?
